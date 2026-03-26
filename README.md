@@ -2,7 +2,7 @@
 
 💻 IT Support Specialist | Troubleshooting • Networking • System Support  
 
-I’m an IT professional with 3.5+ years of experience providing technical support across multiple platforms and devices. I specialize in diagnosing issues, improving user experience, and delivering efficient, easy-to-understand solutions.
+I’m an IT professional with 4+ years of experience providing technical support across multiple platforms and devices. I specialize in diagnosing issues, improving user experience, and delivering efficient, easy-to-understand solutions.
 
 ---
 
