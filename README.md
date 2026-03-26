@@ -1,82 +1,31 @@
-# Hi, I'm Gail 👾
-
-`IT Support • Troubleshooting • Networking`
-
----
-
-## > whoami
-Gail — IT Support Specialist with 3.5+ years of experience handling real-world technical issues across systems, networks, and devices.
-
-## > focus
-Troubleshooting problems, identifying root causes, and getting users back up and running fast.
-
-## > skills
-- Windows / Office 365 support  
-- Active Directory (users, permissions)  
-- VPN setup and troubleshooting  
-- Network issues (TCP/IP, DNS, Wi-Fi)  
-- Printer diagnostics  
-- Multi-device support  
-
-## > tools
-- Zendesk (ticketing)  
-- Odoo (CRM)  
-- Windows environments  
-- eCommerce systems  
-
-## > work_style
-- Fix the root cause, not just the issue  
-- Keep solutions simple and clear  
-- Stay organized across multiple tickets  
-- Focus on fast and accurate resolution  
-
-## > currently_learning
-- CCNA fundamentals  
-- Python (automation)  
-- System administration  
-
-## > contact
-- Email: your-email@example.com  
-- LinkedIn: your-linkedin-profile  
-
----
-
-*Turning real-world tech problems into simple fixes.*- Odoo (CRM)  
-- Windows environments  
-- eCommerce systems  
-
----
-
-### ⚙️ Work Style
-- Fix the root cause, not just the issue  
-- Keep solutions simple and clear  
-- Handle multiple tickets without losing track  
-- Focus on fast and accurate resolution  
-
----
-
-### 📡 Currently Learning
-- CCNA fundamentals  
-- Python (automation)  
-- System administration  
-
----
-
-### 📫 Contact
-- Email: your-email@example.com  
-- LinkedIn: your-linkedin-profile  
-
----
+<h1 align="center">gail.exe</h1>
 
 <p align="center">
-  <i>Turning real-world tech problems into simple fixes.</i>
-</p>- Keep solutions simple and clear
-- Handle multiple tickets without losing track
-- Focus on fast and accurate resolution
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=IT+Support+Specialist;Troubleshooting+Systems;Networking+%7C+Active+Directory;Always+Learning&center=true&width=500&height=45">
+</p>
 
-- CCNA fundamentals
-- Python (automation)
-- System administration
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Office365-000000?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ActiveDirectory-000000?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VPN-000000?style=for-the-badge&logo=protonvpn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zendesk-000000?style=for-the-badge&logo=zendesk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Odoo-000000?style=for-the-badge&logo=odoo&logoColor=white"/>
+</p>
 
-email: your-email@example.com
-linkedin: your-linkedin-profile
+---
+
+```bash
+> whoami
+IT Support Specialist (3.5+ yrs)
+
+> role
+Troubleshoot systems, networks, and user issues across multiple environments
+
+> stack
+Windows / O365 / Active Directory / VPN / Networking / Printers
+
+> mindset
+Fix root cause > quick fixes
+Keep it simple
+Stay efficient
