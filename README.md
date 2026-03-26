@@ -35,17 +35,13 @@ With 3.5+ years of experience in IT helpdesk and quality analysis, I support use
 ---
 
 ## 🛠️ Tools & Platforms
-![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)
 ![Microsoft365](https://img.shields.io/badge/Microsoft365-000000?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Zendesk](https://img.shields.io/badge/Zendesk-000000?style=for-the-badge&logo=zendesk&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white)
 ![TeamViewer](https://img.shields.io/badge/TeamViewer-000000?style=for-the-badge&logo=teamviewer&logoColor=white)
 ![AnyDesk](https://img.shields.io/badge/AnyDesk-000000?style=for-the-badge&logo=anydesk&logoColor=white)
 
----
 
-## 📂 Projects & Portfolio
-Check out my repositories for C and Python projects, automation scripts, and IT documentation.
 
 ---
 
