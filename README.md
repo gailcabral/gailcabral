@@ -1,4 +1,5 @@
-Hi, I’m Gail — where tech issues meet their match
+# Hi, I’m Gail — where tech issues meet their match 
+
 IT Support Specialist (3.5+ yrs) — troubleshooting systems, networks, and user issues across multiple environments.
 
 ---
@@ -42,7 +43,7 @@ IT Support Specialist (3.5+ yrs) — troubleshooting systems, networks, and user
 
 ### 📫 Contact
 - Email: joanna_abigail09@yahoo.com  
-- LinkedIn: https://www.linkedin.com/in/joanna-abigail-cabral-610a18310/  
+- LinkedIn: [Joanna Abigail Cabral](https://www.linkedin.com/in/joanna-abigail-cabral-610a18310/)  
 
 ---
 
