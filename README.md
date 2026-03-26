@@ -45,7 +45,6 @@ IT Support Specialist (3.5+ yrs) — troubleshooting systems, networks, and user
 ### 📈 Currently Learning
 - CCNA (Networking)  
 - Python (Automation)  
-- System Administration  
 
 ---
 
