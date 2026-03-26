@@ -1,52 +1,41 @@
-# Hi, I'm Gail
+<h1 align="center">Hi, I'm Gail 👾</h1>
 
-I work in technical support with 4+ years of experience handling day-to-day IT issues across different systems and devices.
-
-Most of my work involves troubleshooting problems, figuring out root causes, and helping users get back up and running as quickly as possible.
-
----
-
-## What I usually handle
-- Windows and Office 365 issues (login, setup, errors)
-- Active Directory (user accounts, password resets, permissions)
-- VPN setup and connection problems
-- Network issues (slow connection, DNS, Wi-Fi drops)
-- Printer setup and troubleshooting
-- Multi-device support (PC, mobile, different environments)
+<p align="center">
+  <code>IT Support • Troubleshooting • Networking</code>
+</p>
 
 ---
 
-## Tools I’ve used
-- Zendesk for ticket handling  
-- Odoo (CRM and internal tools)  
-- Windows environments  
-- Various eCommerce and support systems  
+```bash
+> whoami
+Gail - IT Support Specialist (3.5+ yrs)
 
----
+> focus
+Troubleshooting systems, fixing network issues, and helping users get back up fast.
 
-## How I work
-- I focus on resolving issues without overcomplicating things  
-- I explain steps clearly, especially for non-technical users  
-- I try to fix the root cause, not just the immediate problem  
-- I keep things organized when handling multiple tickets  
+> current_status
+Learning CCNA | Exploring Python | Leveling up in IT
 
----
+- Windows / Office 365 support
+- Active Directory (users, permissions)
+- VPN setup & troubleshooting
+- Network issues (TCP/IP, DNS, Wi-Fi)
+- Printer diagnostics
+- Multi-device support
 
-## Currently learning
-- Networking (CCNA basics)
-- Python (starting with automation)
+- Zendesk (ticketing)
+- Odoo (CRM)
+- Windows environments
+- eCommerce systems
 
----
+- Fix the root cause, not just the issue
+- Keep solutions simple and clear
+- Handle multiple tickets without losing track
+- Focus on fast and accurate resolution
 
-## Goal
-To move deeper into IT, especially system admin or more technical roles.
+- CCNA fundamentals
+- Python (automation)
+- System administration
 
----
-
-## 📫 Connect with Me
-- Email: joanna_abigail09@yahoo.com
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/joanna-abigail-cabral-610a18310/)  
-
----
-
-⭐ Turning technical problems into simple solutions.
+email: your-email@example.com
+linkedin: your-linkedin-profile
