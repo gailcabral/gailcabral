@@ -1,6 +1,8 @@
-# Hi, I’m Gail — where tech issues meet their match
+![Banner](https://via.placeholder.com/1000x200/000000/800000?text=Gail+%E2%80%94+Where+Tech+Issues+Meet+Their+Match)
 
-IT Support Professional (3.5+ yrs) — troubleshooting systems, networks, and user issues across multiple environments.
+# Hi, I’m Gail — where tech issues meet their match 👾
+
+IT Support Specialist (3.5+ yrs) — troubleshooting systems, networks, and user issues across multiple environments.
 
 ---
 
@@ -40,6 +42,22 @@ IT Support Professional (3.5+ yrs) — troubleshooting systems, networks, and us
 - Monitor and optimize network/system performance using SolarWinds  
 - Handle tickets using Jira and Zendesk  
 
+---
+
+### 📈 Currently Learning
+- CCNA (Networking)  
+- Python (Automation)  
+- System Administration  
+
+---
+
+### 📫 Contact
+- Email: joanna_abigail09@yahoo.com  
+- LinkedIn: [Joanna Abigail Cabral](https://www.linkedin.com/in/joanna-abigail-cabral-610a18310/)  
+
+---
+
+*Turning technical problems into simple, effective solutions.*
 ---
 
 ### 📈 Currently Learning
