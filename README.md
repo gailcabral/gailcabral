@@ -1,4 +1,4 @@
-# Gail 👾
+# Hey, I'm Gail 
 
 IT Support Specialist (3.5+ yrs) — troubleshooting systems, networks, and user issues.
 
