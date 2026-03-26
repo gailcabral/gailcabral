@@ -1,40 +1,40 @@
-
-# Hi, I’m Gail — where tech issues meet their match
+# Hi, I'm Gail — where tech issues meet their match
 
 **IT Support Professional & Quality Analyst**
 
 ---
 
 ## 💻 About
-I have 3.5+ years of experience working in IT helpdesk and quality analysis, supporting users across systems, networks, and multiple devices.  
-I focus on resolving issues efficiently while also making sure support quality stays consistent.
+With 3.5+ years of experience in IT helpdesk and quality analysis, I support users across diverse systems, networks, and devices. I'm driven by efficient problem-solving, consistent quality delivery, and helping users get back to productivity quickly.
+
+**Currently open to:** IT Support Specialist, Systems Administrator, QA Analyst, and IT Technical Specialist roles.
 
 ---
 
 ## ⚡ What I Do
-- Provide IT helpdesk support for users across different platforms  
-- Troubleshoot Windows, Microsoft 365, printers, VPN, and antivirus issues  
-- Fix network and connectivity problems  
-- Provide remote support (TeamViewer, AnyDesk)  
-- Handle tickets using Zendesk and Jira  
-- Evaluate interactions and help improve support quality  
+- **Helpdesk Support:** Resolve 40+ support tickets monthly with focus on efficiency and user satisfaction
+- **Troubleshooting Expertise:** Windows 10/11 deployments, Microsoft 365 security/licensing, VPN configuration, printer setup, and antivirus management
+- **Network & Connectivity:** Diagnose and resolve network issues, connectivity problems, and system performance bottlenecks
+- **Remote Support:** Proficient with TeamViewer and AnyDesk for efficient remote troubleshooting
+- **Ticket Management:** Expert in Zendesk and Jira workflows for organized, transparent issue tracking
+- **Quality Assurance:** Analyze support interactions to identify improvement opportunities and drive training initiatives
+- **User Communication:** Translate technical concepts for non-technical users; strong documentation and training skills
 
 ---
 
 ## 📚 Currently Learning
-- Networking (CCNA path)  
-- C  
-- Python  
+- **Networking:** CCNA certification path (targeting Q3 2026)
+- **Programming:** C and Python for automation and scripting
 
 ---
 
-## 🧠 Tech
+## 🧠 Tech Skills
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## 🛠️ Tools
+## 🛠️ Tools & Platforms
 ![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)
 ![Microsoft365](https://img.shields.io/badge/Microsoft365-000000?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Zendesk](https://img.shields.io/badge/Zendesk-000000?style=for-the-badge&logo=zendesk&logoColor=white)
@@ -44,5 +44,16 @@ I focus on resolving issues efficiently while also making sure support quality s
 
 ---
 
-## 📫 Contact
-- Email: joanna_abigail09@yahoo.com
+## 📂 Projects & Portfolio
+Check out my repositories for C and Python projects, automation scripts, and IT documentation.
+
+---
+
+## 📫 Let's Connect
+- **Email:** joanna_abigail09@yahoo.com
+- **GitHub:** [@gailcabral](https://github.com/gailcabral)
+- **Open to:** Full-time opportunities, contract work, and remote positions
+
+---
+
+*Last updated: March 2026*
