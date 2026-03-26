@@ -1,35 +1,47 @@
-<h1 align="center">Hi, I'm Gail 👾</h1>
+# Hi, I'm Gail 👾
 
-<p align="center">
-  <code>IT Support • Troubleshooting • Networking</code>
-</p>
+`IT Support • Troubleshooting • Networking`
 
 ---
 
-### > whoami
-Gail - IT Support Specialist (3.5+ yrs)
+## > whoami
+Gail — IT Support Specialist with 3.5+ years of experience handling real-world technical issues across systems, networks, and devices.
 
-### > focus
-Troubleshooting systems, fixing network issues, and helping users get back up fast.
+## > focus
+Troubleshooting problems, identifying root causes, and getting users back up and running fast.
 
-### > current_status
-Learning CCNA | Exploring Python | Leveling up in IT
-
----
-
-### 🧠 Skills
+## > skills
 - Windows / Office 365 support  
 - Active Directory (users, permissions)  
-- VPN setup & troubleshooting  
+- VPN setup and troubleshooting  
 - Network issues (TCP/IP, DNS, Wi-Fi)  
 - Printer diagnostics  
 - Multi-device support  
 
----
-
-### 🛠 Tools
+## > tools
 - Zendesk (ticketing)  
 - Odoo (CRM)  
+- Windows environments  
+- eCommerce systems  
+
+## > work_style
+- Fix the root cause, not just the issue  
+- Keep solutions simple and clear  
+- Stay organized across multiple tickets  
+- Focus on fast and accurate resolution  
+
+## > currently_learning
+- CCNA fundamentals  
+- Python (automation)  
+- System administration  
+
+## > contact
+- Email: your-email@example.com  
+- LinkedIn: your-linkedin-profile  
+
+---
+
+*Turning real-world tech problems into simple fixes.*- Odoo (CRM)  
 - Windows environments  
 - eCommerce systems  
 
