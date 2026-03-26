@@ -43,11 +43,6 @@ To move deeper into IT, especially system admin or more technical roles.
 
 ---
 
-## Contact
-- Email: your-email@example.com  
-- LinkedIn: your-linkedin-profile
----
-
 ## 📫 Connect with Me
 - Email: joanna_abigail09@yahoo.com
 - LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/joanna-abigail-cabral-610a18310/)  
