@@ -1,6 +1,6 @@
 ![Banner](https://via.placeholder.com/1000x200/000000/FFFFFF?text=Gail)
 
-# Hi, I’m Gail — where tech issues meet their match 👾
+# Hi, I’m Gail — where tech issues meet their match
 
 **IT Support Professional & Quality Analyst**  
 Focused on fast troubleshooting, reliable solutions, and high-quality support.
