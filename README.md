@@ -1,45 +1,51 @@
-# Hi, I'm Gail 👋
+# Hi, I'm Gail
 
-💻 IT Support Specialist | Troubleshooting • Networking • System Support  
+I work in technical support with 4+ years of experience handling day-to-day IT issues across different systems and devices.
 
-I’m an IT professional with 4+ years of experience providing technical support across multiple platforms and devices. I specialize in diagnosing issues, improving user experience, and delivering efficient, easy-to-understand solutions.
-
----
-
-## 🚀 What I Do
-- Troubleshoot hardware, software, and network issues  
-- Support users across Windows environments and Office 365  
-- Configure and assist with VPN connections and multi-device setups  
-- Manage users and permissions in Active Directory  
-- Handle tickets using CRM and support tools  
+Most of my work involves troubleshooting problems, figuring out root causes, and helping users get back up and running as quickly as possible.
 
 ---
 
-## 🛠️ Tech Stack
-- **Systems:** Windows, Office 365  
-- **Networking:** TCP/IP, DNS, LAN/Wi-Fi  
-- **Tools:** Zendesk, Odoo (CRM), eCommerce platforms  
-- **Other:** VPNs, Printers, Multi-device support  
+## What I usually handle
+- Windows and Office 365 issues (login, setup, errors)
+- Active Directory (user accounts, password resets, permissions)
+- VPN setup and connection problems
+- Network issues (slow connection, DNS, Wi-Fi drops)
+- Printer setup and troubleshooting
+- Multi-device support (PC, mobile, different environments)
 
 ---
 
-## 📌 Experience Snapshot
-- 4 years in Technical Support (chat and email)  
-- Supported printer systems, VPNs, and connectivity issues  
-- Delivered step-by-step troubleshooting for non-technical users  
-- Improved resolution time through efficient issue diagnosis  
+## Tools I’ve used
+- Zendesk for ticket handling  
+- Odoo (CRM and internal tools)  
+- Windows environments  
+- Various eCommerce and support systems  
 
 ---
 
-## 📚 Currently Learning
-- CCNA Fundamentals (Networking)  
-- Python (Automation & Scripting)  
+## How I work
+- I focus on resolving issues without overcomplicating things  
+- I explain steps clearly, especially for non-technical users  
+- I try to fix the root cause, not just the immediate problem  
+- I keep things organized when handling multiple tickets  
 
 ---
 
-## 🎯 Goal
-To grow in IT support/system administration while continuously improving my technical and problem-solving skills.
+## Currently learning
+- Networking (CCNA basics)
+- Python (starting with automation)
 
+---
+
+## Goal
+To move deeper into IT, especially system admin or more technical roles.
+
+---
+
+## Contact
+- Email: your-email@example.com  
+- LinkedIn: your-linkedin-profile
 ---
 
 ## 📫 Connect with Me
