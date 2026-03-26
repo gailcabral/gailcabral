@@ -1,6 +1,6 @@
 # Hi, I’m Gail — where tech issues meet their match
 
-IT Support Specialist (3.5+ yrs) — troubleshooting systems, networks, and user issues across multiple environments.
+IT Support Professional (3.5+ yrs) — troubleshooting systems, networks, and user issues across multiple environments.
 
 ---
 
