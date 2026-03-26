@@ -1,31 +1,35 @@
-<h1 align="center">gail.exe</h1>
+# Gail 👾
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=IT+Support+Specialist;Troubleshooting+Systems;Networking+%7C+Active+Directory;Always+Learning&center=true&width=500&height=45">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Office365-000000?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ActiveDirectory-000000?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VPN-000000?style=for-the-badge&logo=protonvpn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zendesk-000000?style=for-the-badge&logo=zendesk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Odoo-000000?style=for-the-badge&logo=odoo&logoColor=white"/>
-</p>
+IT Support Specialist (3.5+ yrs) — troubleshooting systems, networks, and user issues.
 
 ---
 
-```bash
-> whoami
-IT Support Specialist (3.5+ yrs)
+### 🛠 Tech Stack
 
-> role
-Troubleshoot systems, networks, and user issues across multiple environments
+![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)
+![Office 365](https://img.shields.io/badge/Office365-000000?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Active Directory](https://img.shields.io/badge/ActiveDirectory-000000?style=for-the-badge&logo=windows&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-000000?style=for-the-badge&logo=protonvpn&logoColor=white)
+![Zendesk](https://img.shields.io/badge/Zendesk-000000?style=for-the-badge&logo=zendesk&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-000000?style=for-the-badge&logo=odoo&logoColor=white)
 
-> stack
-Windows / O365 / Active Directory / VPN / Networking / Printers
+---
 
-> mindset
-Fix root cause > quick fixes
-Keep it simple
-Stay efficient
+### 💻 What I Do
+- Troubleshoot Windows and Office 365 issues  
+- Manage users in Active Directory  
+- Fix VPN and network problems (TCP/IP, DNS, Wi-Fi)  
+- Handle printers and multi-device environments  
+- Work with ticketing systems like Zendesk and Odoo  
+
+---
+
+### 📈 Currently Learning
+- CCNA (Networking)  
+- Python (Automation)  
+- System Administration  
+
+---
+
+### 📫 Contact
+email: your-email@example.com
